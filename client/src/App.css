@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pawnImg {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+
+.playersSelected {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.selected-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.field {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.pawn {
+  width: 30px;
+  height: 30px;
+  display: block;
+}
+
+.blueCards,
+.greenCards,
+.redCards {
+  width: 50px;
+  height: 90px;
+  border: 1px solid white;
+  display: inline-block;
+  margin-left: 50%;
+  transform: translate(-50%);
+}
+
+.blueCards {
+  background-color: blue;
+}
+
+.greenCards {
+  background-color: green;
+  grid-column: 4;
+}
+
+.purpleCards {
+  background-color: purple;
+  grid-column: 6;
+}
+
+.dice {
+  height: 50%;
+  width: 50%;
+  grid-row: 6;
+  grid-column: 4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 50%;
+  transform: translate(-50%);
+}
+
+.dice button {
+  padding: 15px;
+  font-size: 2rem;
+}
