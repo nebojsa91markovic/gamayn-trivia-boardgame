@@ -16,6 +16,8 @@
 
 ## Technologies
 * React 17.0.1
+* Redux 4.0.5
+* Axios
 * Socket.io 3.1.0
 * Express 4.17.1
 * Chakra UI
