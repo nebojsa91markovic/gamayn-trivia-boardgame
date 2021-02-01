@@ -1,7 +1,7 @@
 # Gamayun Trivia Board Game
 > A virtual trivia board game which you can play multiplayer for up to 4 players.
 
-<h2> <a href="https://gamayun-trivia-boardgame.herokuapp.com/"> PLAY NOW 🎮 </a> </h2>
+<h2> <a href="https://gamayun-trivia-boardgame.herokuapp.com/"> PLAY NOW 🎮 </a>  </h2>
 
 ## Table of contents
 * [Screenshots](#screenshots)
